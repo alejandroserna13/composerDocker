@@ -1,5 +1,5 @@
 version '3'
-SERVICES:
+services:
  react: 
   image: aleyjohadockerimage4
   ports:
