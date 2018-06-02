@@ -1,7 +1,10 @@
 # composerDocker
 git creado solo para guardar el composer de docker
 
-Para mayor confiabilidad en la ejecución se debe correr primero el servidor del backend (aleyjohadockerimageback4) 
+* correr el comando: docker-compose up
+* disfrutar
+
+Para mayor confiabilidad en la ejecución se corre primero el servidor del backend (aleyjohadockerimageback4) 
 y luego el servidor del frontend (aleyjohadockerimage4) 
 
 El front corre por http://172.17.0.3:3000/
