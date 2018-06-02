@@ -1,10 +1,10 @@
 version '3'
 SERVICES:
  react: 
-  image: aleyjohadockerimage
+  image: aleyjohadockerimage4
   ports:
    -"3000:3000"
  scala: 
-  image: aleyjohadockerimageback3
+  image: aleyjohadockerimageback4
   ports:
    -"9000:9000"
